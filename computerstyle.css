@@ -1,0 +1,124 @@
+body {
+    background-color: rgb(46, 46, 46);
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+    color: #f5f6fa;
+}
+a img {
+    width: 90px;
+    height: 104px;
+    margin-right: 15px;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none !important;
+}
+nav a {
+    text-decoration: none !important;
+}
+ul li {
+    float: right;
+    padding: 0px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 19px;
+}
+.list button{
+    color: #ff4757;
+    margin: 0px;
+    background-color: #eccc68;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    margin: 0px;
+    font-size: 25px;
+    float: right;
+    text-align: center;
+}
+.list button:hover {
+    background-color: #ff4757;
+    color: #eccc68;
+}
+.laptop-section button {
+    background-color: #e05c3f;
+    width: 181.4px;
+    height: 60px;
+    font-size: 30px;
+    font: bold;
+}
+.laptop-section button a {
+    color: white;
+}
+.laptop-section button a:hover {
+    color: white;
+}
+.laptop-section button:hover {
+    background-color: #eccc68;
+}
+.laptop-section h2 {
+    text-align: center;
+    background-color: #e05c3f;
+    padding: 10px;
+    color: white;
+}
+.laptop-section .card-body .card-title {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+.laptop-section .card-body .card-text {
+    color: black;
+    font-size: 20px;
+}
+.laptop-section .card-body .card-title {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.laptop-section .card-body .price {
+    color: rgb(172, 15, 15);
+    font-size: 40px;
+}
+.desktop-section h2 {
+    padding: 10px;
+    text-align: center;
+    background-color: #e05c3f;
+}
+.desktop-section button {
+    background-color: #e05c3f;
+    font-size: 30px;
+    padding: 20px;
+}
+.desktop-section button:hover {
+    background-color: #eccc68;
+}
+.desktop-section h2 {
+    text-align: center;
+    background-color: #e05c3f;
+    padding: 10px;
+    color: white;
+}
+.desktop-section .card-title {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+.desktop-section .card-body .card-text {
+    color: black;
+    font-size: 20px;
+}
+.desktop-section .card-body .card-title {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.desktop-section .card-footer .price {
+    color: rgb(172, 15, 15);
+    font-size: 40px;
+    text-align: center;
+}
